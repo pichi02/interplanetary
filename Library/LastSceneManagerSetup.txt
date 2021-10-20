@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/User Created/WinScene.unity
+- path: Assets/User Created/MainScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
