@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 70
+  controlID: 157
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 455
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -92,7 +92,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 332
+    width: 333
     height: 635
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 140
+  controlID: 158
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 141
+  controlID: 159
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,9 +267,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 332
+    x: 333
     y: 0
-    width: 1133
+    width: 1132
     height: 635
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -318,36 +318,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/User Created/scenes
+    - Assets/Karting/ModularTrackKit/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/User Created/scenes
+  - Assets/Karting/ModularTrackKit/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Luciano\Documents\GitHub\interplanetary
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 101}
-    m_SelectedIDs: c0360100
-    m_LastClickedID: 79552
-    m_ExpandedIDs: 000000008a3601008c360100be36010000ca9a3b
+    scrollPos: {x: 0, y: 77}
+    m_SelectedIDs: 28800000
+    m_LastClickedID: 32808
+    m_ExpandedIDs: 00000000067a0000087a0000267a00002a7a0000367a0000387a00003a7a0000e67c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Tracks
+      m_OriginalName: Tracks
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 31976
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a3601008c360100
+    m_ExpandedIDs: 00000000067a0000087a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -478,29 +478,29 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 331
+    width: 332
     height: 614
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 207}
-      m_SelectedIDs: 40500100
-      m_LastClickedID: 86080
-      m_ExpandedIDs: 7216ffff1220ffffac390100ba3e010006410100
+      scrollPos: {x: 0, y: 2000}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: f868fbffbab4fbffea94fcff9e2ffeff7251feffa670feff1aa7feff42bdfeffa6c3feffcacbfeffbe1effff6828ffff4c2affff242cffff0c80ffff8abeffffaef5ffff22fbffff484b00004c4b00006e4b00007a4b00006a4c0000124d0000ca4f00007c5000002851000010520000c8520000ce5200005253000058540000165600009c5600002c570000c8590000465a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: "Elementos cen\xE1rio"
+        m_OriginalName: "Elementos cen\xE1rio"
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -2642
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -531,9 +531,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 332
+    x: 333
     y: 73
-    width: 1131
+    width: 1130
     height: 614
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -547,9 +547,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 201.9621, y: 40.02959, z: 87.24714}
+    m_Target: {x: 281.9972, y: 17.85369, z: 36.373966}
     speed: 2
-    m_Value: {x: 201.9621, y: 40.02959, z: 87.24714}
+    m_Value: {x: 281.9972, y: 17.85369, z: 36.373966}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -591,18 +591,18 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1090833, y: 0.8294151, z: -0.17289427, w: 0.5205153}
+    m_Target: {x: 0.2387018, y: -0.30909613, z: 0.082885966, w: 0.91743475}
     speed: 2
-    m_Value: {x: 0.10904747, y: 0.8291427, z: -0.17283748, w: 0.5203444}
+    m_Value: {x: 0.23994839, y: -0.30880517, z: 0.08330563, w: 0.91658294}
   m_Size:
-    m_Target: 75.8723
+    m_Target: 48.885914
     speed: 2
-    m_Value: 75.8723
+    m_Value: 48.885914
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -620,7 +620,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewRotation: {x: -0.19445543, y: 0.48832348, z: -0.11308725, w: -0.8435703}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
