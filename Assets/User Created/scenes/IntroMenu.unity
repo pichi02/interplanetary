@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657964, g: 0.49641335, b: 0.5748166, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657975, g: 0.49641347, b: 0.5748174, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -419,7 +419,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 129299359}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: KartGame.UI.LoadSceneButton, KartGame
         m_MethodName: LoadTargetScene
         m_Mode: 1
         m_Arguments:
@@ -427,7 +427,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Level1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &129299357
@@ -480,7 +480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fb0be89f0d0b38469396506a9e54beb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: MainScene
+  SceneName: Level 1
 --- !u!1 &160263376
 GameObject:
   m_ObjectHideFlags: 0

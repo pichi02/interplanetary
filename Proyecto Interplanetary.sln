@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame", "KartGame.csproj", "{18983642-E072-C19B-93A1-98D343F039DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI", "KartGame.AI.csproj", "{981D35FC-7535-82A1-42DD-B72FB9978BEB}"
